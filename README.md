@@ -1,4 +1,4 @@
-# Python ile Satış Analizi - Sales Analysis With Python & Pandas
+# - Sales Analysis With Python & Pandas
 
 
 
